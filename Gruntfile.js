@@ -23,9 +23,10 @@ module.exports = function (grunt) {
                     'js/*.js',
                     'slides/*.md',
                     'slides/*.html',
-                    'slides/list.json'
+                    'slides/list.json',
+                    'sass/**/*'
                 ],
-                tasks: ['build']
+                tasks: ['build', 'sass:dist']
             }
         },
         connect: {
@@ -49,10 +50,17 @@ module.exports = function (grunt) {
             server: {
                 path: 'http://localhost:<%= connect.options.port %>'
             }
+        },
+        sass: {
+          dist: {
+            files: {
+              'css/overrides.css': 'sass/main.scss'
+            }
+          }
         }
     });
 
-    grunt.registerTask('server', ['build', 'connect:livereload', 'open', 'watch']);
+    grunt.registerTask('server', ['build', 'sass:dist', 'connect:livereload', 'open', 'watch']);
 
     grunt.registerTask('build', 'Build your slides.', function () {
         var slides = [];

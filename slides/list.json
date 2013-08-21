@@ -1,4 +1,31 @@
 [
     "index.md",
-    "killer-example.html"
+    "killer-example.html",
+    "about-me.md",
+    [
+        "ember-101.html",
+        "emberapplication.html",
+        "router.html",
+        "controller.html",
+        "viewstemplates.html",
+        "models.html"
+    ],
+    "why-ember.html",
+    [
+        "demystification.html",
+        "routes.html",
+        "ember-creates-objects-for-you.html",
+        "magical-live-updating.html",
+        "accessing-instances.html",
+        "jquery-plugins.html"
+    ],
+    [
+      "advice.html",
+      "controllers-are-presenters.html",
+      "computed-properties-observers.html",
+      "initializers.html",
+      "injections.html",
+      "the-standard-library.html",
+      "reusable-components.html"
+    ]
 ]

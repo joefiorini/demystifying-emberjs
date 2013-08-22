@@ -33,3 +33,9 @@ var appendSlides = function (data) {
   });
 };
 
+Reveal.addEventListener('jsbin-example', function(e) {
+  var currentSlide = $("[data-state=jsbin-example]");
+  var iframe = $("<iframe>").attr("src", "http://localhost:5962");
+  iframe.addClass("js-bin");
+  currentSlide.find(".jsbin-container").append(iframe);
+});

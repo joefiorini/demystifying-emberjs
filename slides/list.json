@@ -2,6 +2,9 @@
     "index.md",
     "killer-example.html",
     "about-me.md",
+    "past-joe.html",
+    "mvc.html",
+    "ember-rails.html",
     [
         "ember-101.html",
         "emberapplication.html",
@@ -20,12 +23,12 @@
         "jquery-plugins.html"
     ],
     [
-      "advice.html",
-      "controllers-are-presenters.html",
-      "computed-properties-observers.html",
-      "initializers.html",
-      "injections.html",
-      "the-standard-library.html",
-      "reusable-components.html"
+        "advice.html",
+        "controllers-are-presenters.html",
+        "computed-properties-observers.html",
+        "initializers.html",
+        "injections.html",
+        "the-standard-library.html",
+        "reusable-components.html"
     ]
 ]

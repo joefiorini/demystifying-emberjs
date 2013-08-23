@@ -9,6 +9,7 @@
     "follow-along-at-home.md",
     [
         "ember-101.html",
+        "ember-101-example-app.html",
         "emberapplication.html",
         "router.html",
         "controller.html",

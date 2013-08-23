@@ -1,0 +1,9 @@
+.s-blurred {
+  -webkit-filter: blur(5px);
+}
+
+.blurred-background {
+  .slide-background.present {
+    -webkit-filter: blur(5px);
+  }
+}

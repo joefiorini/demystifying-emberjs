@@ -33,9 +33,23 @@ var appendSlides = function (data) {
   });
 };
 
-Reveal.addEventListener('jsbin-example', function(e) {
+Reveal.addEventListener('jsbin-example', function() {
   var currentSlide = $("[data-state=jsbin-example]");
   var iframe = $("<iframe>").attr("src", "http://localhost:5962");
   iframe.addClass("js-bin");
   currentSlide.find(".jsbin-container").append(iframe);
+});
+
+function blurCurrentBackground() {
+  var currentBackground = $(".slide-background.present");
+  currentBackground.addClass("s-blurred");
+}
+
+function unblurCurrentBackround() {
+  var currentBackground = $(".slide-background.present");
+  currentBackground.removeClass("s-blurred");
+}
+
+Reveal.addEventListener('blur-on-fragment', function(e) {
+  setTimeout(blurCurrentBackground, 2000);
 });

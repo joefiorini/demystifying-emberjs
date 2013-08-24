@@ -6,14 +6,19 @@ iframe.jsbin-embed {
 }
 
 .reveal {
+
+  .plain-img {
+    border: none;
+    box-shadow: none;
+  }
+
   .juxtapose-figures {
 
     position: relative;
     left: -5%;
 
     img {
-      border: none;
-      box-shadow: none;
+      @extend .plain-img;
     }
 
     .compare-caption {

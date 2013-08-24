@@ -53,3 +53,39 @@ function unblurCurrentBackround() {
 Reveal.addEventListener('blur-on-fragment', function(e) {
   setTimeout(blurCurrentBackground, 2000);
 });
+
+function filterByState(fn, state) {
+  return function(e) {
+    var slide = $(Reveal.getCurrentSlide());
+    if(slide.data("state") == state) {
+      e.currentSlide = slide;
+      fn.call(this, e);
+    } else { console.log("not executing"); }
+  };
+}
+
+Reveal.addEventListener('fragmentshown', filterByState(function(e) {
+  var fragment = $(e.fragment);
+  var currentIndex = fragment.data("fragment-index");
+  if(currentIndex > 0) {
+    var lastIndex = currentIndex - 1;
+    var lastFragment = e.currentSlide.find("[data-fragment-index=" + lastIndex +"]");
+    setTimeout(function() {
+      lastFragment.hide();
+    }, 25);
+  }
+}, "remove-fragment-on-hide"));
+
+Reveal.addEventListener('fragmenthidden', filterByState(function(e) {
+  var fragment = $(e.fragment);
+  var currentIndex = fragment.data("fragment-index");
+  if(currentIndex > 0) {
+    var nextIndex = currentIndex - 1;
+    var nextFragment = e.currentSlide.find("[data-fragment-index=" + nextIndex +"]");
+    fragment.hide();
+    setTimeout(function() {
+      fragment.show();
+    }, 10);
+    nextFragment.show();
+  }
+}, "remove-fragment-on-hide"));

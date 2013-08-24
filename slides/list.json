@@ -4,9 +4,10 @@
     "about-me.md",
     "past-joe.html",
     "why-this-talk.html",
+    "follow-along-at-home.md",
     "mvc.html",
     "ember-rails.html",
-    "follow-along-at-home.md",
+    "why-ember.html",
     [
         "ember-101.html",
         "ember-101-example-app.html",
@@ -16,7 +17,6 @@
         "viewstemplates.html",
         "models.html"
     ],
-    "why-ember.html",
     [
         "demystification.html",
         "routes.html",

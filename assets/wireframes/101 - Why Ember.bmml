@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Ember%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="418" y="213" w="-1" h="-1" measuredW="232" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Ember%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="679" y="68" w="228" h="104" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Story%3A%20Where%20we%20were%20when%20I%20started%20at%20VHT</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

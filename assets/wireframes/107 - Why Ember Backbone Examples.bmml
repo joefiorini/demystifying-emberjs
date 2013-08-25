@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Ember%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="326" y="100" w="-1" h="-1" measuredW="416" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Leave%20Backbone%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="438" y="171" w="192" h="197" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::StickyNote" x="343" y="188" w="186" h="123" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Directory%20structure%20of%20backbone%20app%20and%20the%20number%20of%20files%20for%20each%20section</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::StickyNote" x="604" y="326" w="303" h="123" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Story%3A%0A%20%0A-%20Not%20interested%20in%20Ember%20%28why%20not%3F%29%0A-%20Tried%20to%20setup%20some%20patterns%20%26%20plugins%20for%20Backbone%20to%20help%20solve%20these%20problems</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

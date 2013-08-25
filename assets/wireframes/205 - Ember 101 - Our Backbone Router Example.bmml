@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Router</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="341" y="94" w="-1" h="-1" measuredW="386" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20Backbone%20Router</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="__group__" x="341" y="159" w="356" h="223" measuredW="356" measuredH="223" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="356" h="223" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="16" w="296" h="190" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="3">
+          <controlProperties>
+            <align>left</align>
+            <size>32</size>
+            <text>%3C/%0A%20%0A%20CODE%0A%20%0A/%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

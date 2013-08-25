@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="936" measuredH="449" mockupW="803" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Live%20Updating</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="133" y="91" w="803" h="-1" measuredW="668" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Live%20Updating%3A%20A%20Magical%20Experience%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="299" y="156" w="377" h="126" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20Bullet%20points%20about%20why%0A-%20Live%20updating%20is%20not%20magical%0A-%20In%20fact%20it%27s%20quite%20simple</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

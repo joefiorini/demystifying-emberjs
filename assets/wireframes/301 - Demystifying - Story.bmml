@@ -1,0 +1,15 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Demystifying</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="147" y="58" w="775" h="391" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="578" y="119" w="329" h="206" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photo%20of%20John%20Edward%20being%20a%20douche%20in%20Crossing%20Over%20%28explain%20who%20he%20is%20and%20what%20he%20does%29%0A%20%0AFlip%20to%20a%20photo%20of%20Jim%20Weirich%20at%20Penn%20%26%20Teller%2C%20then%20to%20a%20photo%20of%20me%20with%20Penn%20or%20with%20Teller.%0A%20%0ATell%20the%20story%20of%20how%20they%20completely%20debunked%20John%20Edward%20and%20that%20there%27s%20no%20such%20thing%20as%20magic%2C%20as%20appealing%20as%20it%20may%20be.%0A%20%0ATransition%20with%20relating%20it%20back%20to%20Ember</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

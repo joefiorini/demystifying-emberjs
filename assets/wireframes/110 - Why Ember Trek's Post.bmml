@@ -1,0 +1,16 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Ember%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="472" y="78" w="119" h="130" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="423" y="247" w="223" h="108" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="753" y="63" w="146" h="123" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Trek%27s%20post%20and%20the%20points%20that%20convinced%20us%20to%20try%20it%20out</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

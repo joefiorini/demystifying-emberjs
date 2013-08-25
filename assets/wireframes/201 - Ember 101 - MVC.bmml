@@ -1,0 +1,50 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MVC</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="361" y="145" w="324" h="206" measuredW="324" measuredH="206" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="155" y="77" w="169" h="86" measuredW="169" measuredH="86" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="127" h="52"/>
+            <override controlID="1" x="59" y="51" w="7" h="35"/>
+            <override controlID="2" x="127" y="22" w="42" h="7"/>
+            <override controlID="-1"/>
+            <src>$ACCOUNT/assets/Flow%20Charts.bmml#Condition</src>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="0" y="76" w="155" h="43" measuredW="155" measuredH="43" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="127" h="43"/>
+            <override controlID="2" x="113" y="23" w="42" h="7"/>
+            <override controlID="-1"/>
+            <src>$ACCOUNT/assets/Flow%20Charts.bmml#Input%2FOutput</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="155" y="0" w="127" h="76" measuredW="127" measuredH="76" zOrder="2" locked="false" isInGroup="6">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="127" h="43"/>
+            <override controlID="1" x="59" y="41" w="7" h="35"/>
+            <override controlID="-1"/>
+            <src>$ACCOUNT/assets/Flow%20Charts.bmml#Step</src>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="155" y="163" w="127" h="43" measuredW="127" measuredH="43" zOrder="3" locked="false" isInGroup="6">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="127" h="43"/>
+            <override controlID="-1"/>
+            <src>$ACCOUNT/assets/Flow%20Charts.bmml#Step%20(No%20Arrow)</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Title" x="414" y="80" w="-1" h="-1" measuredW="219" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ember%20MVC</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

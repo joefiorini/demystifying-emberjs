@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Ember%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="326" y="100" w="-1" h="-1" measuredW="416" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Leave%20Backbone%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="300" y="165" w="442" h="126" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20Lack%20of%20strictly-enforced%20conventions%0A-%20Too%20many%20view%20classes%20%26%20objects%0A-%20Had%20to%20implement%20ajax%20polling%2C%20data-binding%20and%20live-updating%20ourselves%0A-%20Very%20difficult%20to%20implement%20resuable%20components%0A-%20And%20any%20other%20points%20I%20think%20of</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

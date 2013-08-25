@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="436">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Routes</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="178" y="64" w="729" h="370" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application%20Route</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="178" y="79" w="729" h="355" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Index%20Route</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="192" y="95" w="707" h="331" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Movies%20Route</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="201" y="108" w="347" h="318" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Movies%20Index%20Route</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="548" y="108" w="351" h="318" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Movies%20Show%20Route</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="583" y="56" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="333" y="56" w="150" h="100" measuredW="150" measuredH="100" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="483" y="13" w="96" h="82" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20them%20swapping</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

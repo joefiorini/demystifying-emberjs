@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Router</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="__group__" x="356" y="148" w="356" h="223" measuredW="356" measuredH="223" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="356" h="223" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="15" y="16" w="296" h="190" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <align>left</align>
+            <size>32</size>
+            <text>%3C/%0A%20%0A%20CODE%0A%20%0A/%3E</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="356" y="89" w="-1" h="-1" measuredW="310" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>An%20Ember%20Router</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::StickyNote" x="762" y="109" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20the%20Movies%20router</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

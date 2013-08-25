@@ -1,0 +1,25 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="974" measuredH="449" mockupW="827" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Models</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="343" y="75" w="383" h="-1" measuredW="370" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Loading%20from%20Routes</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="356" y="156" w="356" h="223" measuredW="356" measuredH="223" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#Code%20Example</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="865" y="39" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Show%20how%20movies%20show%20loads%20a%20movie</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

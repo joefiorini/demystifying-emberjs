@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Templates</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="299" y="125" w="470" h="-1" measuredW="376" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Templates%20from%20Files</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="353" y="190" w="363" h="126" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20Requires%20something%20to%20precompilethe%20templates%0A-%20And%20maybe%20another%20point%20about%0A-%20How%20they%20compile%20into%20a%20file%0A-%20And%20get%20placed%20in%20the%20Ember.TEMPLATES%20variable</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

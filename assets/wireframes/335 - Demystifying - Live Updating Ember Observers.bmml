@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Live%20Updating</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="293" y="70" w="-1" h="-1" measuredW="482" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Observer%20Pattern%20in%20Ember</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="183" y="208" w="176" h="60" measuredW="176" measuredH="60" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Templates</text>
+        </override>
+        <src>$ACCOUNT/assets/Flow%20Charts.bmml#Step%20(No%20Arrow)</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="446" y="208" w="176" h="60" measuredW="176" measuredH="60" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Controllers</text>
+        </override>
+        <src>$ACCOUNT/assets/Flow%20Charts.bmml#Step%20(No%20Arrow)</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="711" y="208" w="176" h="60" measuredW="176" measuredH="60" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Models</text>
+        </override>
+        <src>$ACCOUNT/assets/Flow%20Charts.bmml#Step%20(No%20Arrow)</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="134" w="775" h="315" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Computed%20Properties/Observers</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="357" y="235" w="89" h="10" measuredW="89" measuredH="10" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="89" h="10"/>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20hline%20arrow%20right</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="622" y="233" w="89" h="10" measuredW="89" measuredH="10" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="89" h="10"/>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20hline%20arrow%20right</src>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="228" y="306" w="112" h="87" measuredW="112" measuredH="87" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="9" y="10" w="103" h="77"/>
+        <override controlID="1" x="4" y="5" w="103" h="77"/>
+        <override controlID="2" x="0" y="0" w="103" h="77">
+          <text>Arrays</text>
+        </override>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20stack</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="374" y="306" w="112" h="87" measuredW="112" measuredH="87" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="9" y="10" w="103" h="77"/>
+        <override controlID="1" x="4" y="5" w="103" h="77"/>
+        <override controlID="2" x="0" y="0" w="103" h="77">
+          <text>Objects</text>
+        </override>
+        <override controlID="-1"/>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20stack</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="539" y="306" w="112" h="87" measuredW="112" measuredH="87" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="9" y="10" w="103" h="77"/>
+        <override controlID="1" x="4" y="5" w="103" h="77"/>
+        <override controlID="2" x="0" y="0" w="103" h="77">
+          <text>Sorting</text>
+        </override>
+        <override controlID="-1"/>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20stack</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="696" y="306" w="112" h="87" measuredW="112" measuredH="87" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="9" y="10" w="103" h="77"/>
+        <override controlID="1" x="4" y="5" w="103" h="77"/>
+        <override controlID="2" x="0" y="0" w="103" h="77">
+          <text>Grouping</text>
+        </override>
+        <src>$ACCOUNT/assets/Sitemap.bmml#sitemap%20stack</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

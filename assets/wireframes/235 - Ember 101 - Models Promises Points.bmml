@@ -1,0 +1,20 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="922" measuredH="449" mockupW="775" mockupH="422">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="147" y="27" w="775" h="422" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Models</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="445" y="75" w="179" h="-1" measuredW="167" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>Promises</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="381" y="149" w="341" h="74" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20Pause%20the%20router%0A-%20Allow%20transitions%20to%20fail%0A-%20Load%20in%20background%20before%20performing%20transitions</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

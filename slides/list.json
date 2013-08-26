@@ -5,7 +5,7 @@
     "follow-along-at-home.md",
     [
       "1-why-ember/title.md",
-      "1-why-ember/why-not-backbone.md",
+      "1-why-ember/why-not-backbone.html",
       "1-why-ember/why-not-backbone-example.html",
       "1-why-ember/why-not-backbone-photo.html",
       "1-why-ember/treks-post.html",

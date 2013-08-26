@@ -11,9 +11,9 @@
       "1-why-ember/why-not-backbone-photo.html",
       "1-why-ember/treks-post.html",
       "1-why-ember/reasons.html",
-      "1-why-ember/convention-over-configuration.html",
       "1-why-ember/convention-over-configuration-before.html",
-      "1-why-ember/convention-over-configuration-after.html"
+      "1-why-ember/convention-over-configuration-after.html",
+      "1-why-ember/convention-over-configuration.html"
     ],
     [
       "2-ember-101/title.md",

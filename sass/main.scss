@@ -7,6 +7,14 @@ iframe.jsbin-embed {
 
 .reveal {
 
+  .heading-light {
+    display: inline-block;
+    padding: .5em;
+    padding-top: .25em;
+    background-color: rgba(white, 0.7);
+    border: solid 2px rgba(#aaa, 0.4);
+  }
+
   .plain-img {
     border: none;
     box-shadow: none;

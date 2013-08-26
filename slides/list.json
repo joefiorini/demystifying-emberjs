@@ -1,53 +1,54 @@
 [
+    "a-plea-to-patience.html",
     "index.md",
     "killer-example.html",
     "about-me.html",
     "outline.html",
     "follow-along-at-home.md",
     [
-      "1-why-ember/title.md",
-      "1-why-ember/why-not-backbone.html",
-      "1-why-ember/why-not-backbone-example.html",
-      "1-why-ember/why-not-backbone-photo.html",
-      "1-why-ember/treks-post.html",
-      "1-why-ember/reasons.html",
-      "1-why-ember/convention-over-configuration-before.html",
-      "1-why-ember/convention-over-configuration-after.html",
-      "1-why-ember/convention-over-configuration.html"
+        "1-why-ember/title.md",
+        "1-why-ember/why-not-backbone.html",
+        "1-why-ember/why-not-backbone-example.html",
+        "1-why-ember/why-not-backbone-photo.html",
+        "1-why-ember/treks-post.html",
+        "1-why-ember/reasons.html",
+        "1-why-ember/convention-over-configuration-before.html",
+        "1-why-ember/convention-over-configuration-after.html",
+        "1-why-ember/convention-over-configuration.html"
     ],
     [
-      "2-ember-101/title.md",
-      "2-ember-101/example-app.html",
-      "2-ember-101/mvc-ember-is-not-rails.html",
-      "2-ember-101/mvc.html",
-      "2-ember-101/application.html"
+        "2-ember-101/title.md",
+        "2-ember-101/example-app.html",
+        "2-ember-101/mvc-ember-is-not-rails.html",
+        "2-ember-101/mvc.html",
+        "2-ember-101/application.html"
     ],
     [
-      "2-ember-101/router-title.html",
-      "2-ember-101/router-example.html",
-      "2-ember-101/router-handlers-example.html",
-      "2-ember-101/router-router-naming-example.html",
-      "3-demystifying/movies-router-example.html",
-      "3-demystifying/routes-swapping.html",
-      "3-demystifying/routes-photo.html"
+        "2-ember-101/router-title.html",
+        "2-ember-101/router-example.html",
+        "2-ember-101/router-handlers-example.html",
+        "2-ember-101/router-router-naming-example.html",
+        "3-demystifying/movies-router-example.html",
+        "3-demystifying/routes-swapping.html",
+        "3-demystifying/routes-photo.html"
     ],
     [
-      "2-ember-101/models-title.html",
-      "2-ember-101/models-intro.html",
-      "2-ember-101/models-example.html",
-      "2-ember-101/models-loading-example.html",
-      "2-ember-101/models-promises-photo.html",
-      "2-ember-101/models-promises-points.html"
+        "2-ember-101/models-title.html",
+        "2-ember-101/models-intro.html",
+        "2-ember-101/models-example.html",
+        "2-ember-101/models-loading-example.html",
+        "2-ember-101/models-promises-photo.html",
+        "2-ember-101/models-promises-points.html"
     ],
     [
-      "2-ember-101/templates-title.html",
-      "2-ember-101/templates-intro.html",
-      "2-ember-101/templates-loading-from-dom.html",
-      "2-ember-101/templates-loading-from-files-points.html"
+        "2-ember-101/templates-title.html",
+        "2-ember-101/templates-intro.html",
+        "2-ember-101/templates-loading-from-dom.html",
+        "2-ember-101/templates-loading-from-files-points.html"
     ],
     [
-      "3-demystifying/live-updating-photo.html",
-      "3-demystifying/live-updating-example.html"
+        "3-demystifying/live-updating-photo.html",
+        "3-demystifying/live-updating-example.html"
     ],
     "why-ember-reprise.html",
     "why-ember-reprise-2.html",

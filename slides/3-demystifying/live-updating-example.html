@@ -1,6 +1,6 @@
 <section>
   <h4>Live Updating</h4>
-  <a class="jsbin-embed" href="http://localhost:5962/ohesoh/5/embed?javascript,live">Demystifying Ember.js</a><script src="http://localhost:5962/js/embed.js"></script>
+  <a class="jsbin-embed" href="http://localhost:5962/ohesoh/7/embed?javascript,live">Demystifying Ember.js</a><script src="http://localhost:5962/js/embed.js"></script>
 
   <aside class="notes" data-markdown>
   - Rotten tomatoes has a cool icon for ratings
@@ -9,9 +9,12 @@
   - Implement controller & action
 
       App.MoviesShowController = Ember.ObjectController.extend({
-        showingFreshness: false,
         toggleFreshness: function() {
-          this.toggleProperty("showingFreshness");
+          if(this.get("showingFreshness")) {
+            this.set("showingFreshness", false);
+          } else {
+            this.set("showingFreshness", true);
+          }
         }
       });
 

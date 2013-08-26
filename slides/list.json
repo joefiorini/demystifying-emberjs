@@ -19,25 +19,33 @@
       "2-ember-101/example-app.html",
       "2-ember-101/mvc.html",
       "2-ember-101/mvc-ember-is-not-rails.html",
-      "2-ember-101/application.html",
+      "2-ember-101/application.html"
+    ],
+    [
       "2-ember-101/router-title.html",
       "2-ember-101/router-example.html",
       "2-ember-101/router-handlers-example.html",
       "2-ember-101/router-router-naming-example.html",
       "3-demystifying/movies-router-example.html",
       "3-demystifying/routes-photo.html",
-      "3-demystifying/routes-swapping.html",
+      "3-demystifying/routes-swapping.html"
+    ],
+    [
       "2-ember-101/models-title.html",
       "2-ember-101/models-intro.html",
       "2-ember-101/models-example.html",
       "2-ember-101/models-promises-photo.html",
       "2-ember-101/models-promises-points.html",
-      "2-ember-101/models-loading-example.html",
+      "2-ember-101/models-loading-example.html"
+    ],
+    [
       "2-ember-101/templates-title.html",
       "2-ember-101/templates-intro.html",
       "2-ember-101/templates-loading-from-dom.html",
       "2-ember-101/templates-loading-from-files.html",
-      "2-ember-101/templates-loading-from-files-points.html",
+      "2-ember-101/templates-loading-from-files-points.html"
+    ],
+    [
       "3-demystifying/live-updating-photo.html",
       "3-demystifying/live-updating-example.html"
     ],

@@ -1,12 +1,18 @@
 <section>
   <h4>Route Handlers</h4>
 
-  <a class="jsbin-embed" href="http://localhost:5962/awepek/1/embed?javascript">Demystifying Ember.js</a><script src="http://localhost:5962/js/embed.js"></script>
+  <a class="jsbin-embed" href="http://localhost:5962/awepek/4/embed?javascript">Demystifying Ember.js</a><script src="http://localhost:5962/js/embed.js"></script>
 
   <aside class="notes" data-markdown>
   - Loading anonymous Movies Route
   - Loading custom index route
   - Lazy-loading anonymous show route
   - Loading custom show route
+
+      App.MoviesShowRoute = Ember.Route.extend({
+        toString: function() {
+          return "(custom MoviesShowRoute)";
+        }
+      });
   </aside>
 </section>

@@ -8,15 +8,15 @@
   - Show toggling within template (surround with action, add {{#if}} block)
   - Implement controller & action
 
-      App.MoviesShowController = Ember.ObjectController.extend({
-        toggleFreshness: function() {
-          if(this.get("showingFreshness")) {
-            this.set("showingFreshness", false);
-          } else {
-            this.set("showingFreshness", true);
+        App.MoviesShowController = Ember.ObjectController.extend({
+          toggleFreshness: function() {
+            if(this.get("showingFreshness")) {
+              this.set("showingFreshness", false);
+            } else {
+              this.set("showingFreshness", true);
+            }
           }
-        }
-      });
+        });
 
   </aside>
 </section>

@@ -51,13 +51,13 @@ function unblurCurrentBackround() {
 }
 
 Reveal.addEventListener('blur-on-fragment', function(e) {
-  setTimeout(blurCurrentBackground, 2000);
+  setTimeout(blurCurrentBackground, 1000);
 });
 
 function filterByState(fn, state) {
   return function(e) {
     var slide = $(Reveal.getCurrentSlide());
-    if(slide.data("state") == state) {
+    if(slide.data("state").split(" ").indexOf(state) > -1) {
       e.currentSlide = slide;
       fn.call(this, e);
     } else { console.log("not executing"); }

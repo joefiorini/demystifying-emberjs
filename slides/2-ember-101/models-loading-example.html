@@ -1,3 +1,18 @@
 <section>
-  <h4>Loading from Routes</h4>
+  <h4>Loading Model Instances</h4>
+
+  <a class="jsbin-embed" href="http://localhost:5962/odaniz/1/embed?html,javascript">Demystifying Ember.js</a><script src="http://localhost:5962/js/embed.js"></script>
+
+  <aside class="notes" data-markdown>
+  - Index: Model callback
+  - Show: No model callback?
+
+        model: function(params) {
+          return App.Movie.find(params.movie_id);
+        },
+
+  - CoC: Automatically done by Ember
+  - Matches on resource name
+
+  </aside>
 </section>

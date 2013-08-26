@@ -2,6 +2,7 @@
     "index.md",
     "killer-example.html",
     "about-me.md",
+    "outline.html",
     "follow-along-at-home.md",
     [
       "1-why-ember/title.md",
@@ -50,5 +51,6 @@
     ],
     "why-ember-reprise.html",
     "why-ember-reprise-2.html",
+    "resources.html",
     "thanks.html"
 ]

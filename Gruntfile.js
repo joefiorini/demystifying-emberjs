@@ -44,6 +44,13 @@ module.exports = function (grunt) {
                         ];
                     }
                 }
+            },
+            server: {
+              options: {
+                middleware: function(connect) {
+                  return [mountFolder(connect, '.')];
+                }
+              }
             }
         },
         open: {
@@ -61,6 +68,7 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('server', ['build', 'sass:dist', 'connect:livereload', 'open', 'watch']);
+    grunt.registerTask('server:debug', ['build', 'sass:dist', 'connect:server', 'open', 'watch']);
 
     grunt.registerTask('build', 'Build your slides.', function () {
         var slides = [];

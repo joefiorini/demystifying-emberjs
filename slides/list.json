@@ -39,8 +39,7 @@
       "2-ember-101/templates-loading-from-files.html",
       "2-ember-101/templates-loading-from-files-points.html",
       "3-demystifying/live-updating-photo.html",
-      "3-demystifying/live-updating-example.html",
-      "3-demystifying/live-updating-cps.html"
+      "3-demystifying/live-updating-example.html"
     ],
     "why-ember-reprise.html",
     "why-ember-reprise-2.html",

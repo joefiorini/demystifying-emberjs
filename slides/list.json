@@ -27,8 +27,8 @@
       "2-ember-101/router-handlers-example.html",
       "2-ember-101/router-router-naming-example.html",
       "3-demystifying/movies-router-example.html",
-      "3-demystifying/routes-photo.html",
-      "3-demystifying/routes-swapping.html"
+      "3-demystifying/routes-swapping.html",
+      "3-demystifying/routes-photo.html"
     ],
     [
       "2-ember-101/models-title.html",
@@ -42,7 +42,6 @@
       "2-ember-101/templates-title.html",
       "2-ember-101/templates-intro.html",
       "2-ember-101/templates-loading-from-dom.html",
-      "2-ember-101/templates-loading-from-files.html",
       "2-ember-101/templates-loading-from-files-points.html"
     ],
     [
